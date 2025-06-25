@@ -3,8 +3,12 @@
 A modern Pomodoro timer web application built with React, TypeScript, Vite, and Tailwind CSS. The app helps users stay focused and productive with a clean interface, dark/light mode, and session statistics.
 
 ---
+## Screenshots
+![Light Mode Screenshot](src/images/pomodoro_lightmode.png)
+![Dark Mode Screenshot](src/images/pomodoro_darkmode.png)
+---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **React 18** with TypeScript
 - **Vite** (build tool)
@@ -13,7 +17,7 @@ A modern Pomodoro timer web application built with React, TypeScript, Vite, and 
 
 ---
 
-## 🧩 Component Structure
+## Component Structure
 
 - **PomodoroTimer** – Main timer logic and state management
 - **CircularProgress** – Custom SVG-based progress indicator
@@ -22,7 +26,7 @@ A modern Pomodoro timer web application built with React, TypeScript, Vite, and 
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
 - Pomodoro timer with work/break modes
 - Session statistics tracking
@@ -33,7 +37,7 @@ A modern Pomodoro timer web application built with React, TypeScript, Vite, and 
 
 ---
 
-## 🛠️ Implementation Details
+## Implementation Details
 
 ### State Management
 
