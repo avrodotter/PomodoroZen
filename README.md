@@ -1,4 +1,4 @@
-# Simple Pomodoro
+# Pomodoro Zen
 
 A modern Pomodoro timer web application built with React, TypeScript, Vite, and Tailwind CSS. The app helps users stay focused and productive with a clean interface, dark/light mode, and session statistics.
 
