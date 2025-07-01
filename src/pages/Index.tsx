@@ -7,7 +7,7 @@ const Index = () => {
     <div 
       className="min-h-screen flex flex-col items-center justify-center p-4 transition-colors duration-300 bg-cover bg-center bg-no-repeat"
       style={{
-        backgroundImage: `url('https://images.unsplash.com/photo-1598149255714-de0a630b96ea?w=1920&h=1080&fit=crop')`
+        backgroundImage: `url('https://images.unsplash.com/photo-1509635022432-0220ac12960b?w=1920&h=1080&fit=crop')`
       }}
     >
       {/* Dark overlay for better readability */}
